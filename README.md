@@ -1,5 +1,7 @@
 # ROS MCP Server 🧠⇄🤖
 
+## **セットアップは[docs/claude_mcp_setup.md](docs/claude_mcp_setup.md)を参照** ##
+
 ![Static Badge](https://img.shields.io/badge/ROS-Available-green)
 ![Static Badge](https://img.shields.io/badge/ROS2-Available-green)
 ![Static Badge](https://img.shields.io/badge/License-Apache%202.0-blue)
